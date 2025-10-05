@@ -77,7 +77,6 @@ Mermaid-style timeline (or simple list):
 5. 10:12 — Splunk ingests events and dashboard shows spike
 ```
 
-**Screenshot placeholder:** `![Timeline in Splunk](timeline_placeholder.png)`
 
 ---
 
@@ -141,22 +140,7 @@ index=windows EventCode=4625 | stats count by src_ip, Account_Name
 
 > **Note:** These are illustrative snippets meant for documenting the lab. Do not run attacks on systems you don’t own or have explicit permission to test.
 
----
 
-## How to replace placeholders with your screenshots
 
-1. Export or capture the screenshots described above.
-2. Rename files to the placeholders used (`topology_placeholder.png`, `hydra_output_placeholder.png`, etc.).
-3. Upload them here or paste them into the document canvas to replace the placeholder images.
-
----
 
 **End of document**
-
-*If you want, I can now:*
-
-* Add the real screenshots you upload into the placeholders, or
-* Export this as a one-page PDF or PowerPoint.
-
-*Tell me which option you prefer and upload any screenshots you want included.*
-
