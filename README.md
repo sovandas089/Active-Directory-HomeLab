@@ -29,7 +29,7 @@ A one-paragraph summary of the project goals and outcomes.
 * **Windows Server (AD DS)** — Domain Controller, user & group management, logs authentication events.
 * **Ubuntu (Splunk)** — Splunk Enterprise installed; indexes Windows events forwarded from hosts.
 * **Windows 10** — Domain-joined target with services and test accounts.
-* **Kali Linux** — Attacker: ran Hydra for password brute-force.
+* **Kali Linux** — Attacker: Run Hydra for password brute-force.
 
 ---
 
